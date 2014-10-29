@@ -13,7 +13,7 @@ SendGrid for WordPress Multisite
 
 Email delivery simplified for WordPress Multisite. Requires PHP 5.3.
 
-`Additional Plugin (optional): https://github.com/belkincapital/github-updater (used for updates)`
+`Additional Plugin (optional): https://github.com/MCV-Theme/github-updater (used for updates)`
 
 ## Installation
 
